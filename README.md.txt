@@ -1,1 +1,0 @@
-This is Scientific Calculator created for school and college progjects 
